@@ -12,11 +12,11 @@ server][aspecgerman].
 ## Sources
 
 * [ausrufezeichen](https://discord.com/assets/4467f392af6cb1ad2acd20ae416a69ab.svg)
-  (default emoji converted to #d2e700 and png)
+  (default emoji converted to `#d2e700` and png)
 * [pride-emoji-flags](https://github.com/aspec-german/pride-emoji-flags)
-* [tada-ace.png](https://emoji.gg/emoji/6627-gay-tada) (converted to ace)
-* [tada-aro.png](https://emoji.gg/emoji/6627-gay-tada) (converted to aro)
-* [tada-rainbow.png](https://emoji.gg/emoji/6627-gay-tada)
+* [tadaace.png](https://emoji.gg/emoji/6627-gay-tada) (converted to ace)
+* [tadaaro.png](https://emoji.gg/emoji/6627-gay-tada) (converted to aro)
+* [tadarainbow.png](https://emoji.gg/emoji/6627-gay-tada)
 * [true](https://emoji.gg/emoji/100True) (converted to red and png)
 
 [aspecgerman]: https://aspecgerman.de
