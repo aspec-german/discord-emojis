@@ -13,7 +13,9 @@ server][aspecgerman].
 
 * [ausrufezeichen](https://discord.com/assets/4467f392af6cb1ad2acd20ae416a69ab.svg)
   (default emoji converted to `#d2e700` and png)
+* [neurodiversityloop](https://commons.wikimedia.org/wiki/File:Autism_spectrum_infinity_awareness_symbol.svg)
 * [pride-emoji-flags](https://github.com/aspec-german/pride-emoji-flags)
+* sarkasmus (selbstgebastelt)
 * [tadaace.png](https://emoji.gg/emoji/6627-gay-tada) (converted to ace)
 * [tadaaro.png](https://emoji.gg/emoji/6627-gay-tada) (converted to aro)
 * [tadarainbow.png](https://emoji.gg/emoji/6627-gay-tada)
