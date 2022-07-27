@@ -60,5 +60,6 @@ repository](https://github.com/aspec-german/pride-emoji-flags/).
 * [true](https://emoji.gg/emoji/100True) (converted to `#B72F3C`)
 * valid (unsure, but similar to [valid](https://emoji.gg/emoji/9153_valid))
 * [wholesome_feels](https://emoji.gg/emoji/6006_WholesomeFeels)
+* [plus_green](https://cdn.pixabay.com/photo/2014/04/02/10/55/plus-304947_640.png)
 
 [aspecgerman]: https://aspecgerman.de
