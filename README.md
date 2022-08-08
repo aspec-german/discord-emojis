@@ -16,6 +16,7 @@ repository](https://github.com/aspec-german/pride-emoji-flags/).
 
 * ace_heart_eyes (selfmade)
 * [acecake](https://www.deviantart.com/galadnilien/art/Ace-Cake-528372645)
+* [aceflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/asexual-flag.png)
 * aceflaggif
 * [acefluxflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/aceflux-flag.png)
 * [acespecflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/acespec-flag.png)
@@ -36,14 +37,13 @@ repository](https://github.com/aspec-german/pride-emoji-flags/).
 * [aroaceflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/aroace-flag.png)
 * [aroacemixflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/aroace-mix-flag.png)
 * [aroacesunsetflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/aroace-sunset-flag.png)
+* [aroflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/aromantic-flag.png)
 * aroflaggif
 * [arofluxflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/aroflux-flag.png)
 * [aroicecream](https://discord.com/assets/52bfdf64e0f7355d16780ff7187f9a1a.svg)
   (default emoji converted to "aro")
-* [aromanticflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/aromantic-flag.png)
 * [arospecflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/arospec-flag.png)
 * arostar (selfmade)
-* [asexualflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/asexual-flag.png)
 * [ausrufezeichen](https://discord.com/assets/4467f392af6cb1ad2acd20ae416a69ab.svg)
   (default emoji converted to `#D2E700`)
 * [autismprideflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/autismpride-flag.png)
