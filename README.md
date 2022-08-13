@@ -100,8 +100,10 @@ repository](https://github.com/aspec-german/pride-emoji-flags/).
   (converted to `#74B956`)~~
 * [polyamoryflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/polyamory-flag.png)
 * [polysexualflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/polysexual-flag.png)
+* [prideheart](https://emoji.gg/emoji/5633-lgbt) (converted to "rainbow only")
 * [progressprideflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/progresspride-flag.png)
 * [progresspride2flag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/progresspride2-flag.png)
+* [progressprideheart](https://emoji.gg/emoji/5633-lgbt)
 * [queerplatonicflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/queerplatonic-flag.png)
 * [rainbowflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/pride-flag.png)
 * sarkasmus (selfmade)
