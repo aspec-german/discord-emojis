@@ -12,7 +12,7 @@ server][aspecgerman].
 You can find more flags in [our separate
 repository](https://github.com/aspec-german/pride-emoji-flags/).
 
-## Sources
+## Emoji
 
 * ace_heart_eyes (selfmade)
 * [acecake](https://www.deviantart.com/galadnilien/art/Ace-Cake-528372645)
@@ -147,5 +147,16 @@ repository](https://github.com/aspec-german/pride-emoji-flags/).
 * [true](https://emoji.gg/emoji/100True) (converted to `#B72F3C`)
 * valid (unsure, but similar to [valid](https://emoji.gg/emoji/9153_valid))
 * [wholesome_feels](https://emoji.gg/emoji/6006_WholesomeFeels)
+
+## Stickers
+
+* [aceheart](https://emoji.gg/emoji/4863-asexual)
+* [aroheart](https://emoji.gg/emoji/5633-aromantic)
+* grouphug
+* [nonbinaryheart](https://emoji.gg/emoji/5633-nonbinary)
+* [lesbianheart](https://emoji.gg/emoji/4863-lesbian)
+* [prideheart](https://emoji.gg/emoji/5633-lgbt)
+* supergrouphug
+* [transheart](https://emoji.gg/emoji/7551-trans)
 
 [aspecgerman]: https://aspecgerman.de
