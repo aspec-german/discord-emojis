@@ -112,7 +112,7 @@ repository](https://github.com/aspec-german/pride-emoji-flags/).
 * nou (selfmade?)
 * [omniflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/omni-flag.png)
 * [panheart](https://emoji.gg/emoji/3291-pansexual)
-* [pansexualflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/pansexual-flag.png)
+* [panflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/pan-flag.png)
 * [pink_heart](https://discord.com/assets/35221463e22cf68c28b23b6479a43613.svg)
   (default emoji converted to `#`)
 * [philadelphiaheart](https://emoji.gg/emoji/5674_gay_pride_flag_heart)
