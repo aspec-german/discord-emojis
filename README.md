@@ -39,6 +39,7 @@ repository](https://github.com/aspec-german/pride-emoji-flags/).
 * [aplflag1](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/apl-flag1.png)
 * [aplflag2](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/apl-flag2.png)
 * aro_heart_eyes (selfmade)
+* [aroaceagenderflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/aroaceagender-flag.png)
 * [aroacecake](https://www.deviantart.com/galadnilien/art/Ace-Cake-528372645)
   (converted to "aroace")
 * [aroaceflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/aroace-flag.png)
