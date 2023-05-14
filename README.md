@@ -103,6 +103,7 @@ repository](https://github.com/aspec-german/pride-emoji-flags/).
 * [lesbianheart](https://emoji.gg/emoji/4863-lesbian)
 * ~~lesbianheart_old~~
 * [lithflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/lith-flag.png)
+* loveless_aro (selfmade?)
 * message_sent (used by [Voltaire](https://nminchow.github.io/VoltaireWeb/))
 * mild_panic (selfmade?)
 * mood (other server)
