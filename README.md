@@ -149,6 +149,7 @@ repository](https://github.com/aspec-german/pride-emoji-flags/).
 * [true](https://emoji.gg/emoji/100True) (converted to `#B72F3C`)
 * valid (unsure, but similar to [valid](https://emoji.gg/emoji/9153_valid))
 * [wholesome_feels](https://emoji.gg/emoji/6006_WholesomeFeels)
+* ywblob (selfmade?)
 
 ## Stickers
 
