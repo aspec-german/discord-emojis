@@ -113,6 +113,7 @@ repository](https://github.com/aspec-german/pride-emoji-flags/).
 * [nonbinaryheart](https://emoji.gg/emoji/5633-nonbinary)
 * nou (selfmade?)
 * [omniflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/omni-flag.png)
+* [orientedaroaceflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/oriented-aroace-flag.png)
 * [panheart](https://emoji.gg/emoji/3291-pansexual)
 * [panflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/pan-flag.png)
 * [pink_heart](https://discord.com/assets/35221463e22cf68c28b23b6479a43613.svg)
