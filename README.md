@@ -69,7 +69,9 @@ repository](https://github.com/aspec-german/pride-emoji-flags/).
 * blob_joking (selfmade)
 * blob_sarcasm (selfmade)
 * blob_serious (selfmade)
+* blob_thanks
 * blob_this (selfmade)
+* blob_yourewelcome (selfmade?)
 * [cupioromanticflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/cupioromantic-flag.png)
 * [cupiosexualflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/cupiosexual-flag.png)
 * daemlich (selfmade?)
@@ -147,7 +149,6 @@ repository](https://github.com/aspec-german/pride-emoji-flags/).
 * [tadaace](https://emoji.gg/emoji/6627-gay-tada) (converted to "ace")
 * [tadaaro](https://emoji.gg/emoji/6627-gay-tada) (converted to "aro")
 * [tadarainbow](https://emoji.gg/emoji/6627-gay-tada)
-* thxblob
 * [transfeminineflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/transfeminine-flag.png)
 * [transfeminineheart](https://emoji.gg/emoji/1678_transfeminine_pride_heart)
 * [transgenderflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/transgender-flag.png)
@@ -157,7 +158,6 @@ repository](https://github.com/aspec-german/pride-emoji-flags/).
 * [true](https://emoji.gg/emoji/100True) (converted to `#B72F3C`)
 * valid (unsure, but similar to [valid](https://emoji.gg/emoji/9153_valid))
 * [wholesome_feels](https://emoji.gg/emoji/6006_WholesomeFeels)
-* yourewelcomeblob (selfmade?)
 
 ## Stickers
 
