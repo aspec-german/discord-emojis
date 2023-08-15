@@ -64,9 +64,11 @@ repository](https://github.com/aspec-german/pride-emoji-flags/).
 * [bigenderheart](https://emoji.gg/emoji/5311_bigender_pride_heart)
 * bigeyes
 * [biheart](https://emoji.gg/emoji/9117_bi_flag_heart)
+* blob_alttextplease.png (selfmade)
 * blob_genuine (selfmade)
 * blob_halfjoking (selfmade)
 * blob_joking (selfmade)
+* blob_nospoons.png (selfmade)
 * blob_sarcasm (selfmade)
 * blob_serious (selfmade)
 * blob_thanks
