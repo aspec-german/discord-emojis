@@ -89,6 +89,7 @@ repository](https://github.com/aspec-german/pride-emoji-flags/).
 * [demiaceheart](https://emoji.gg/emoji/7319_demisexual_pride_heart)
 * demiaroheart (selfmade)
 * [demisexualflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/demisexual-flag.png)
+* [disabilityprideflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/disability-pride-flag.png)
 * [exteramoflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/exteramo-flag.png)
 * [frayromanticflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/frayromantic-flag.png)
 * [fraysexualflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/fraysexual-flag.png)
