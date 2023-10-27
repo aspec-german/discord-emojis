@@ -155,6 +155,7 @@ repository](https://github.com/aspec-german/pride-emoji-flags/).
 * [tadaace](https://emoji.gg/emoji/6627-gay-tada) (converted to "ace")
 * [tadaaro](https://emoji.gg/emoji/6627-gay-tada) (converted to "aro")
 * [tadarainbow](https://emoji.gg/emoji/6627-gay-tada)
+* thinkingfish (other server)
 * [transfeminineflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/transfeminine-flag.png)
 * [transfeminineheart](https://emoji.gg/emoji/1678_transfeminine_pride_heart)
 * [transgenderflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/transgender-flag.png)
