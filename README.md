@@ -41,6 +41,7 @@ repository](https://github.com/aspec-german/pride-emoji-flags/).
 * aro_baumsteigerfrosch (selfmade)
 * aro_heart_eyes (selfmade)
 * [aroaceagenderflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/aroaceagender-flag.png)
+* aroaceapl (selfmade/KI)
 * [aroacecake](https://www.deviantart.com/galadnilien/art/Ace-Cake-528372645)
   (converted to "aroace")
 * [aroaceflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/aroace-flag.png)
