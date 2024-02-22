@@ -78,6 +78,7 @@ repository](https://github.com/aspec-german/pride-emoji-flags/).
 * blob_this (selfmade)
 * blob_threadplease (selfmade)
 * blob_yourewelcome (selfmade)
+* blobs (selfmade, svg with blobs)
 * [cupioromanticflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/cupioromantic-flag.png)
 * [cupiosexualflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/cupiosexual-flag.png)
 * daemlich (selfmade?)
