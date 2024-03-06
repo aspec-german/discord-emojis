@@ -81,7 +81,6 @@ repository](https://github.com/aspec-german/pride-emoji-flags/).
 * blobs (selfmade, svg with blobs)
 * [cupioromanticflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/cupioromantic-flag.png)
 * [cupiosexualflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/cupiosexual-flag.png)
-* daemlich (selfmade?)
 * [demiaceflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/demisexual-flag.png)
 * [demiaroflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/demiaro-flag.png)
 * [demiboyflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/demiboy-flag.png)
@@ -167,6 +166,7 @@ repository](https://github.com/aspec-german/pride-emoji-flags/).
 * [true](https://emoji.gg/emoji/100True) (converted to `#B72F3C`)
 * valid (unsure, but similar to [valid](https://emoji.gg/emoji/9153_valid))
 * [wholesome_feels](https://emoji.gg/emoji/6006_WholesomeFeels)
+* wideeyes (selfmade?)
 
 ## Stickers
 
