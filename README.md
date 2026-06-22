@@ -166,6 +166,8 @@ repository](https://github.com/aspec-german/pride-emoji-flags/).
 * [transmasculineflag](https://github.com/aspec-german/pride-emoji-flags/blob/main/png/transmasculine-flag.png)
 * [transmasculineheart](https://emoji.gg/emoji/7230_transmasculine_pride_heart)
 * [true](https://emoji.gg/emoji/100True) (converted to `#B72F3C`)
+* uniace (selfmade)
+* uniacesparkleheart (selfmade)
 * valid (unsure, but similar to [valid](https://emoji.gg/emoji/9153_valid))
 * [wholesome_feels](https://emoji.gg/emoji/6006_WholesomeFeels)
 * wideeyes (selfmade?)
